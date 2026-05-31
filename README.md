@@ -10,9 +10,10 @@ I am interested in **Artificial Intelligence** and **Cybersecurity** as two pers
 
 - 🎓 Currently pursuing a **BSc in Mathematical Engineering & Artificial Intelligence** at *Universidad Pontificia Comillas ICAI-ICADE*.
 - 🛡️ Active member of the **ICAI Cyber Team**.
-- 🔍 My technical approach emphasizes deep analysis, first-principles reasoning, and lateral thinking.
-- 🤝 Open to collaborating on cybersecurity challenges, AI research, and the development of secure systems.
+- ⚙️ Currently working on threat detection techniques, analyzing Sysmon logs and process execution trees to identify malicious behavior using AI.
 - 🎓 English level (CEFR C1)
+- 🤝 Open to collaborating on cybersecurity challenges, AI research, and the development of secure systems.
+
 
 ### 💻 Tech Stack & Tools
 
