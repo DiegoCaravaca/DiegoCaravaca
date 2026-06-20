@@ -19,7 +19,7 @@ I am interested in **Artificial Intelligence** and **Cybersecurity** as two pers
 
 - **Data & AI:** Python, Pandas, NumPy, Scikit-Learn
 - **Cybersecurity:** Linux, Bash, CTFs
-- **Core Development:** C, Python, Git, SQL, MongoDB, Neo4j
+- **Core Development:** C/C++, Python, Git, SQL, MongoDB, Neo4j
 
 ### 📈 Featured Projects
 
