@@ -26,7 +26,7 @@ and applied-ML projects.
 ### 📈 Featured Projects
 
 - **[Kinea](https://github.com/DiegoCaravaca/Kinea):** A lightweight Python-based system for Raspberry Pi that reads EMG signals, classifies hand gestures using Machine Learning, and controls a robotic hand with a real-time web dashboard. 
-- **[Zanshin](https://github.com/DiegoCaravaca/Zanshin):**Developing a C++ DNS entropy analysis tool to detect DGA-based malware, optimized for low-latency environments such as embedded
+- **[Zanshin](https://github.com/DiegoCaravaca/Zanshin):** Developing a C++ DNS entropy analysis tool to detect DGA-based malware, optimized for low-latency environments such as embedded
 systems and EDRs.
 ---
 
