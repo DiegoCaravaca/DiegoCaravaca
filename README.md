@@ -21,7 +21,7 @@ and applied-ML projects.
 
 - **Data & AI:** Python, Pandas, NumPy, Scikit-Learn
 - **Cybersecurity:** Linux, Bash, CTFs
-- **Core Development:** C/C++, Python, Git, SQL, MongoDB, Neo4j
+- **Core Development:** Python, C#, Git, SQL, MongoDB, Neo4j, learning C/C++
 
 ### 📈 Featured Projects
 
