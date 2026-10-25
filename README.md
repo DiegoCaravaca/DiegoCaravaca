@@ -1,20 +1,18 @@
 # Hi there! I'm Diego Caravaca 👋
 
-### Mathematical Engineering & AI Student | Cybersecurity | ICAI Cyber Team
+### Mathematical Engineering & AI Student
 
-I am interested in **Artificial Intelligence** and **Cybersecurity** as two perspectives of the same challenge: understanding, reasoning about, and securing complex systems.
-
+Interested in Artificial Intelligence and Software Engineering as two perspectives of the same challenge: understanding, reasoning about, and architecting complex systems.
 ---
 
 ### 🧠 About Me
 
-- 🎓 Mathematical Engineering and AI student focused on artificial intelligence and its applications to cybersecurity, low-level
-systems, and robotics. Strong mathematical and machine-learning foundations, with hands-on experience from a research internship
+- 🎓 Mathematical Engineering and AI student focused on artificial intelligence and its applications. Strong mathematical and machine-learning foundations, with hands-on experience from a research internship
 and applied-ML projects.
 - 🛡️ Active member of the **ICAI Cyber Team**.
 - ⚙️ Currently working on threat detection techniques, analyzing Sysmon logs and process execution trees to identify malicious behavior using AI.
 - 🎓 English level (CEFR C1)
-- 🤝 Open to collaborating on cybersecurity challenges, AI research, and the development of secure systems.
+- 🤝 Open to collaborating on software engineering challenges, applied AI, and the development of scalable systems.
 
 
 ### 💻 Tech Stack & Tools
