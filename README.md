@@ -10,7 +10,7 @@ Interested in Artificial Intelligence and Software Engineering as two perspectiv
 - 🎓 Mathematical Engineering and AI student focused on artificial intelligence and its applications. Strong mathematical and machine-learning foundations, with hands-on experience from a research internship
 and applied-ML projects.
 - 🛡️ Active member of the **ICAI Cyber Team**.
-- ⚙️ Currently working on threat detection techniques, analyzing Sysmon logs and process execution trees to identify malicious behavior using AI.
+- ⚙️ Experience working on threat detection techniques, analyzing Sysmon logs and process execution trees to identify malicious behavior using AI.
 - 🎓 English level (CEFR C1)
 - 🤝 Open to collaborating on software engineering challenges, applied AI, and the development of scalable systems.
 
